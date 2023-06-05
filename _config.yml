@@ -1,10 +1,10 @@
 title: <p align="center"> Buu NGUYEN </p>
 
-logo: "/images/picture.png?raw=true"
+logo: "/assets/img/profile_picture.png?raw=true"
 
 description:
   <p align="center">
-  <a href="pdf/Resume.pdf">Résumé</a> |
+  <a href="assets/files/Resume.pdf">Résumé</a> |
   <a href="https://www.linkedin.com/in/buu-nguyen/">LinkedIn</a> |
   <a href="https://github.com/buu-nguyen">GitHub</a>
   </p>
