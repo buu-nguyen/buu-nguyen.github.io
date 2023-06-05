@@ -19,4 +19,4 @@
 <center><img src="images/Effectiveness_of_nationwide_lockdown_in_the_prevention_of_COVID_19_spreading.jpg"/></center>
 <br>
 ---
-<center>© 2021 Buu NGUYEN. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2021 Buu NGUYEN. Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://pages-themes.github.io/minimal/">Minimal theme</a>.</center>
